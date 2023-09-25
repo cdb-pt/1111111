@@ -1,0 +1,12 @@
+<?xml version='1.0' standalone='yes'?>
+<opt>
+  <digits>6</digits>
+  <draw-mode>
+    <bgcolor>000000</bgcolor>
+    <fgcolor>FFA500</fgcolor>
+  </draw-mode>
+  <image-mode>
+    <charset>7SEG</charset>
+  </image-mode>
+  <mode>draw-mode</mode>
+</opt>

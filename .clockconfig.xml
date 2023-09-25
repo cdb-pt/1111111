@@ -1,0 +1,14 @@
+<?xml version='1.0' standalone='yes'?>
+<opt>
+  <Datum>1</Datum>
+  <Uhrzeit>0</Uhrzeit>
+  <analog>no</analog>
+  <draw-mode>
+    <bgcolor>C0C0C0</bgcolor>
+    <fgcolor>191970</fgcolor>
+  </draw-mode>
+  <image-mode>
+    <charset>7SEG</charset>
+  </image-mode>
+  <mode>image-mode</mode>
+</opt>
